@@ -1,10 +1,5 @@
 # Erikk - Fashion Website Design ✈ 🧳
 
-![Erikk Fashion Website](banner-desktop.jpg)
-
-A modern and elegant fashion website design built using **HTML & SCSS**, offering a seamless and responsive user experience.
-
----
 
 ## 🚀 Tech Stack
 
@@ -44,6 +39,14 @@ A modern and elegant fashion website design built using **HTML & SCSS**, offerin
    cd erikk-fashion-website
    ```
 3. **Open `index.html` in your browser** and enjoy! 🎉
+
+---
+
+---
+
+## 🔗 Live Demo
+
+🌐 [View Live Demo](https://grand-duckanoo-22d63e.netlify.app/)
 
 ---
 
