@@ -37,7 +37,7 @@ A modern and elegant fashion website design built using **HTML & SCSS**, offerin
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/erikk-fashion-website.git
+   git clone https://github.com/akashm01github/errik-template.git
    ```
 2. **Navigate to the project folder**
    ```sh
