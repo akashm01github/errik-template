@@ -59,9 +59,5 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
 
-### 📬 Contact
-For any inquiries or feedback, reach out via [your-email@example.com](mailto:your-email@example.com).
-
----
 
 💖 **Star** this repo if you find it useful! ⭐
