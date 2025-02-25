@@ -11,10 +11,10 @@
 ## 📸 Screenshots
 
 ### 📱 Mobile View
-![Mobile View](banner-mobile.jpg)
+![Mobile View](https://github.com/akashm01github/errik-template/blob/main/images/iPhone-13-PRO-127.0.0.1.png)
 
 ### 💻 Desktop View
-![Desktop View](banner-desktop.jpg)
+![Desktop View](https://github.com/akashm01github/errik-template/blob/main/images/Macbook-Air-127.0.0.1.png)
 
 ---
 
